@@ -9,6 +9,10 @@ outline: none;
 
 
 }
+body{
+background-color:  rgb(184, 127, 127);
+
+}
 
 .container{
 height: 100vh;
